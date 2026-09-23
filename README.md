@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Graphql-Security/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Graphql-Security?style=flat-square&color=gold" alt="GitHub Stars"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Graphql-Security/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Graphql-Security?style=flat-square&color=gold" alt="GitHub_Stars"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Graphql-Security/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Graphql-Security?style=flat-square&color=blue" alt="GitHub Forks"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Graphql-Security/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg?style=flat-square" alt="License"/></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
@@ -59,9 +59,9 @@ The table below lists leading commercial enterprise platforms for GraphQL securi
 
 ## 🔓 Open-Source GitHub Projects
 
-Below are top open-source tools, security libraries, scanners, and middleware for GraphQL API defense. Items are sorted by GitHub star count in descending order.
+Below are top open-source tools, security libraries, scanners, and middleware for GraphQL API defense. Items are sorted by GitHub Stars_Count in descending order.
 
-| Repository | Description | Stars | License |
+| Repository | Description | GitHub_Stars | License |
 | :--- | :--- | :--- | :--- |
 | ⚡ **[graphql-js](https://github.com/graphql/graphql-js)** | Reference implementation of GraphQL for JavaScript—provides core AST parsing & validation rules for depth/cost limits. | [![Stars](https://img.shields.io/github/stars/graphql/graphql-js?style=social&color=white)](https://github.com/graphql/graphql-js/stargazers) | MIT |
 | 🐍 **[graphene](https://github.com/graphql-python/graphene)** | Python framework for building GraphQL APIs with built-in validation capabilities and field-level permission control. | [![Stars](https://img.shields.io/github/stars/graphql-python/graphene?style=social&color=white)](https://github.com/graphql-python/graphene/stargazers) | MIT |
